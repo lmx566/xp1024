@@ -53,4 +53,3 @@ for li in lis:
         except:
             pass
 exit()
-#xp1024lualu.com 图片采集工具 作者：lmx
